@@ -1,0 +1,2 @@
+2025.08 github add new openssh keys
+git bash connect.
